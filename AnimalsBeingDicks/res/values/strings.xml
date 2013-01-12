@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Animals Being Dicks - RSS Client</string>
+    <string name="another_Button">Another one!</string>
+    <string name="check_for_new_post_Button">Check for new posts</string>
+    <string name="exit_Button">Exit</string>
+
+</resources>
